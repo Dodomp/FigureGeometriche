@@ -32,4 +32,6 @@ public class Cerchio extends Forma {
     private double extracted() {
         return 2*raggio*Math.PI;
     }
+
+    //ho gia messo i setter e i getter, ma forza Sampdoria sempre!
 }
